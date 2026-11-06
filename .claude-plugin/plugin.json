@@ -19,5 +19,8 @@
     "maker",
     "right-to-repair"
   ],
-  "privacyPolicyUrl": "https://promptandsolder.co.uk/privacy/"
+  "privacyPolicyUrl": "https://promptandsolder.co.uk/privacy/",
+  "repository": "https://github.com/andygordon/Promptandsolder-plugin",
+  "supportUrl": "https://github.com/andygordon/Promptandsolder-plugin/issues",
+  "documentationUrl": "https://promptandsolder.co.uk/claude/"
 }
