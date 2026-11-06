@@ -1,0 +1,23 @@
+{
+  "name": "prompt-and-solder",
+  "displayName": "Prompt & Solder",
+  "version": "1.0.0",
+  "description": "Search a sourced catalogue of about 1,700 real projects where people used Claude to fix, hack, repurpose and reverse engineer their own devices and software, failures included, and turn them into a plan for yours.",
+  "author": {
+    "name": "Prompt & Solder",
+    "url": "https://promptandsolder.co.uk/"
+  },
+  "homepage": "https://promptandsolder.co.uk/claude/",
+  "license": "MIT",
+  "keywords": [
+    "hardware",
+    "repair",
+    "reverse-engineering",
+    "jailbreak",
+    "debloat",
+    "esp32",
+    "maker",
+    "right-to-repair"
+  ],
+  "privacyPolicyUrl": "https://promptandsolder.co.uk/privacy/"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "prompt-and-solder": {
+      "type": "http",
+      "url": "https://promptandsolder.co.uk/mcp"
+    }
+  }
+}
