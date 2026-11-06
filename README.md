@@ -21,7 +21,7 @@ The plugin runs no local code. When Claude uses it, the only data sent is the se
 
 ## Privacy
 
-The server doesn't store search words or tie requests to people. To stop overload, each request's address is turned into a salted one-way hash that changes daily and is used only to count requests per minute and deleted shortly afterwards. The web host may keep standard access logs. Full policy: https://promptandsolder.co.uk/privacy/
+The server doesn't store search words or tie requests to people. To stop overload, each request's address is turned into a salted one-way hash that changes daily and is used only to count requests per minute and deleted shortly afterwards. The web host keeps standard access logs (address, time and the requested URL, which for the search API includes the search words) for about eight weeks. Full policy: https://promptandsolder.co.uk/privacy/
 
 ## About
 
